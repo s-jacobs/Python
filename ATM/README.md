@@ -55,29 +55,30 @@ Next the customer menu will load  -  choose an option 1-5 or 6 to logout
         
         
 <br>**For the operator menu choose 2**
-User will be asked to login
+<br>User will be asked to login
+-  Admin logins:
     -  admin  -  pass
     -  oper   -  1234
 
 <br>Next operator main menu will load  -  Choose an option 1-3, 6 to logout, and 5 to shutdown the ATM (END/EXIT program)
-    1. Display Number of Bills  -  This option displays the number of each bill in the ATM
-    2. Add Bills to ATM  -  This allows the operator to add bills to the ATM
-        -  Operator will be prompted to choose which bill they want to add and how many they are adding
+1. Display Number of Bills  -  This option displays the number of each bill in the ATM
+2. Add Bills to ATM  -  This allows the operator to add bills to the ATM
+    -  Operator will be prompted to choose which bill they want to add and how many they are adding
         -  ** Choose option 5 on which bill menu to cancel and return to the operator main menu
-        - Operator will then be asked if they want to add more bills
-            1. Yes  -  sent back to choose which bill they want to add
-            2. No   -  display the new number of bills and return to operator main menu
+    - Operator will then be asked if they want to add more bills
+        1. Yes  -  sent back to choose which bill they want to add
+        2. No   -  display the new number of bills and return to operator main menu
             
-    3. Remove Bills from ATM  -  This allows the operator to remove bills from the ATM
-        - Operator will be prompted to choose which bill they want to remove and how many
-            -  ** Choose option 5 to cancel
-            -  Program will validate that ATM has enough bills
-            -  If not, operator will be notified
+3. Remove Bills from ATM  -  This allows the operator to remove bills from the ATM
+    - Operator will be prompted to choose which bill they want to remove and how many
+        -  ** Choose option 5 to cancel
+    -  Program will validate that ATM has enough bills
+    -  If not, operator will be notified
 
-    4. Shutdown ATM  -  This allows the operator to shutdown the ATM (END/EXIT program)
-        -  Operator will be prompted to confirm shutdown
-            1. Operator will be logged out and ATM will shut down
-            2. Shutdown is canceled. Return to operator main menu
+4. Shutdown ATM  -  This allows the operator to shutdown the ATM (END/EXIT program)
+    -  Operator will be prompted to confirm shutdown
+        1. Operator will be logged out and ATM will shut down
+        2. Shutdown is canceled. Return to operator main menu
 
-    5. Logout  -  Operator is logged out and sent back to first menu (customer or operator login)
+5. Logout  -  Operator is logged out and sent back to first menu (customer or operator login)
 
