@@ -10,8 +10,7 @@ TO DO:
 <br/>
 
 DONE:
-
-Account.java
-Bills.java
-Customer.java
-Operator.java
+-  Account.java
+-  Bills.java
+-  Customer.java
+-  Operator.java
