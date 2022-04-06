@@ -3,19 +3,21 @@
 
 Program starts with the main menu that has two options  -  Login as a customer or login as an operator
 For the customer menu choose 1
-    You will be asked to login
-        Customer logins for 10 accounts:
-            -  JoDoe  -  pass
-            -  jadoe  -  1234
-            -  pjones  -  2345
-            -  mikejones  -  3456
-            -  pthomas  -  4567
-            -  jKelly  -  5678
-            -  coopNelson  -  6789
-            -  rnelson  -  7891
-            -  joeJack  -  8910
-            -  lizhouston  -  9101
+    <br/>You will be asked to login
+        <br/>Customer logins for 10 accounts:
+        -  JoDoe  -  pass
+        -  jadoe  -  1234
+        -  pjones  -  2345
+        -  mikejones  -  3456
+        -  pthomas  -  4567
+        -  jKelly  -  5678
+        -  coopNelson  -  6789
+        -  rnelson  -  7891
+        -  joeJack  -  8910
+        -  lizhouston  -  9101
+            
     Next the customer menu will load  -  choose an option 1-5 or 6 to logout
+    
         1. View Your Balance  -  This will print out the customer checking and savings balance
             -  there are two types
                 1. shows the original customer balance before any changes
