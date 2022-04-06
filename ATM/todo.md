@@ -31,10 +31,12 @@
 ### **FUTURE ADITIONS:**
 -  Connect to SQL database
 <br/>
+
 **Customer:**
 -  reset password
 -  add security questions
 <br/>
+
 **Operator:**
 -  create a new account??
 
