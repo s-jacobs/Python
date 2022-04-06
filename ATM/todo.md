@@ -1,5 +1,6 @@
-TO DO:
+# Project Progress:
 
+### **TODO:**
 -  make separate files for each blueprints
 -  deposit money
 -  transfer money
@@ -14,7 +15,7 @@ TO DO:
 
 <br/>
 
-DONE:
+### **DONE:**
 -  Customer account login
 -  print balance
 -  withdraw
@@ -24,3 +25,21 @@ DONE:
 -  Bills.java
 -  Customer.java
 -  Operator.java
+
+<br/>
+
+### **FUTURE ADITIONS:**
+-  Connect to SQL database
+<br/>
+**Customer:**
+-  reset password
+-  add security questions
+<br/>
+**Operator:**
+-  create a new account??
+
+
+
+
+
+
