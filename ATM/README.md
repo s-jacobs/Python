@@ -1,9 +1,13 @@
 # ATM Machine
 ## Python Version
 
-Program starts with the main menu that has two options  -  Login as a customer or login as an operator
+#### This is python code that simulates a basic ATM machine. It contains one hundred dollar bills, fifty dollar bills, twenty dollar bills, and five dollar bills Initially, the machine starts with 100 of each bill.
 
-<br>**For the customer menu choose 1**
+#### There are two modes: Customer and Operator. A customer can log in and out, withdraw money from their checking or savings, deposit money into their checking or savings, transfer money between their checking and savings, or transfer money between their checking and the checking of another customer. An operator can log in and out, display the number of each bill, add bills to the machine, remove bills from the machine, and shutdown the machine (ending the program). 
+
+<br/>Program starts with the main menu that has two options  -  Login as a customer or login as an operator
+
+<br/>**For the customer menu choose 1**
 <br/>You will be asked to login
 - Customer logins for 10 accounts:  
     - JoDoe - pass
